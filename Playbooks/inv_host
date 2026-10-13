@@ -1,7 +1,0 @@
-[dev]
-centos1
-[prod]
-centos2
-[servers]
-centos1
-centos2
