@@ -1,5 +1,5 @@
 ---
-- hosts: prod
+- hosts: linux
   become: true
   become_method: sudo
   tasks:
