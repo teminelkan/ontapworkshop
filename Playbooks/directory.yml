@@ -1,5 +1,5 @@
 ---
-- hosts: prod
+- hosts: linux
   tasks:
   - name: Creating a directory
     file:
